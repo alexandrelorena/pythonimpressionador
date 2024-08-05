@@ -1,7 +1,7 @@
-# 🐍 Python Impresisonador - Hashtag Treinamentos
+# 🐍 Python Impressionador - Hashtag Treinamentos
 
 
-### 📚 Repositório de estudos do curso Completo de Python oferecido pela Hashtag Treinamentos! 
+### 📚 Repositório de estudos do curso Completo de Python oferecido pela [Hashtag Treinamentos!](https://portalhashtag.com/) 
 
 ### 🎯 Objetivos do Curso
 - Aprender os fundamentos da linguagem Python
