@@ -1,4 +1,4 @@
-# Python Impressionador - Hashtag Treinamentos 
+# Python Impressionador - Hashtag Treinamentos x
 
 
 ### 📚 Repositório de estudos do curso Completo de Python oferecido pela [Hashtag](https://portalhashtag.com/) 
